@@ -1,0 +1,7 @@
+Array
+(
+    [name] => Sneha Gupta
+    [course] => B.Tech CSE
+    [skills] => Python, C++, Java, AWS, Algo
+    [work experience] => Verzeo Internship
+)

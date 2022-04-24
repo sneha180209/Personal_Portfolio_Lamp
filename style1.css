@@ -1,0 +1,39 @@
+body 
+{  
+    text-align: center;
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color: whitesmoke;  
+    color: rgb(2, 46, 95);
+    
+}  
+button 
+{
+    text-align: center;
+    background-color: rgb(0, 174, 255);   
+    width: 6%;
+    color: whitesmoke;
+    padding: 10px 18px;   
+    margin-top: 20px;  
+    margin-right: -5px;
+    border: none;
+    cursor: pointer;   
+}
+form 
+{ 
+    text-align: center;
+    border: 3px solid #f1f1f1;   
+    color: black;
+    
+}   
+input[type=text], input[type=password], input[type=submit]
+{
+    text-align: center;
+    width: 30%;
+    margin: 8px 0;
+    margin-left: 0px;  
+    padding: 12px 20px;   
+    display: inline-block;   
+    border: 2px solid rgb(0, 174, 255);
+    box-sizing: border-box;    
+} 
+
